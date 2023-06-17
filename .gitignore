@@ -1,2 +1,4 @@
 
 *.bibtex
+.DS_Store
+*.pyc
